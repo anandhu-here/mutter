@@ -1,0 +1,1 @@
+export const api_endpoint = 'http://50.16.151.27:3001';
