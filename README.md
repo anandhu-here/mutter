@@ -8,6 +8,5 @@ Anonymous chat application in which you can talk to people near you
   </tr>
  </table>
 
-<img src="" width="400" height="900">
 
 
